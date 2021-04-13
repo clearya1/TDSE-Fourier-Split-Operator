@@ -1,4 +1,4 @@
-# TDSE-Fourier-Split-Operator
+# TDSE Fourier Split-Operator Method
 
 ## Author  
 
